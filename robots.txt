@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lithogypi.github.io/sitemap.html.gz
+Sitemap: https://lithogypi.github.io/app/sitemap.html.gz
+Sitemap: https://lithogypi.github.io/assets/sitemap.html.gz
+Sitemap: https://lithogypi.github.io/css/sitemap.html.gz
+Sitemap: https://lithogypi.github.io/includes/sitemap.html.gz
+Sitemap: https://lithogypi.github.io/item/sitemap.html.gz
+Sitemap: https://lithogypi.github.io/src/sitemap.html.gz
